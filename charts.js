@@ -121,7 +121,7 @@ function buildCharts(sample) {
         size: sampleValues,
         color: otuIds,
         colorscale: "Earth"
-      }
+      },
     }];
     // Deliverable 2: 2. Create the layout for the bubble chart.
     var bubbleLayout = {
